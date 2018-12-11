@@ -1,0 +1,9 @@
+# Environment vars
+.env
+
+# NPM
+node_modules/
+.npm-debug.log
+
+# OS files
+.DS_STORE
